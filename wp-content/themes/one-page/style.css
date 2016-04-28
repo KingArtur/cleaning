@@ -278,7 +278,7 @@ div#crumbs{
     margin-bottom: 0px;
 }
 .top_strip {
-    background: #444;
+    background: #fff !important;
     padding: 8px 0 4px 0;
     overflow: hidden;
     position: relative;
@@ -332,37 +332,37 @@ div#crumbs{
     margin-left: 2px;
 }
 .social_icon_wrapper ul li a {
-    color: #444;
-    display: block;
-    width: 21px;
-    height: 21px;
+    background: #92c910;
     border-radius: 50%;
-    background: #000;
+    color: #fff;
+    display: block;
     font-size: 13px;
-    line-height: 1.8;
+    height: 26px;
+    line-height: 2;
     text-align: center;
+    width: 26px;
 }
-.social_icon_wrapper ul li a.fb {
-    background: #14a6f1;
+/*.social_icon_wrapper ul li a.fb {
+    background: #92c910;
 }
 .social_icon_wrapper ul li a.tw {
-    background: #2cddf7;
+    background: #92c910;
 }
 .social_icon_wrapper ul li a.gp {
-    background: #fe3535;
-    font-size: 12px;
-    width: 21px;
-    height: 21px;
+    background: #92c910;
+    font-size: 13px;
+    width: 26px;
+    height: 26px;
 }
 .social_icon_wrapper ul li a.rss {
-    background: #fda01c;
+    background: #92c910;
 }
 .social_icon_wrapper ul li a.pn {
-    background: #fe3939;
+    background: #92c910;
 }
 .social_icon_wrapper ul li a.ln {
-    background: #0186c7;
-}
+    background: #92c910;
+}*/
 /**
  * Sections Common Style
  */
